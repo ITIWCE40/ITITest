@@ -6,7 +6,7 @@
  *
  *  
  */ 
-
+#include "main.h"
 #include <avr/io.h>
 #include "FreeRTOS.h"
 #include "task.h"
